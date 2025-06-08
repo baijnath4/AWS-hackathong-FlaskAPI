@@ -1,0 +1,6 @@
+Employee,Workdays,Total Hours,Assigned Machines,Shift Timing
+E1,"Mon, Tue, Wed, Thu, Fri, Sat",51.77 hrs,"Fill-01 (Mon–Fri), Label-01 (Sat)",9 AM - 7 PM
+E2,"Mon, Tue, Wed, Thu, Fri, Sat",51.91 hrs,"Fill-02 (Mon–Fri), Label-02 (Sat)",9 AM - 7 PM
+E3,"Tue, Wed, Thu, Fri, Sat",42.57 hrs,Label-01,11 AM - 6 PM
+E4,"Tue, Wed, Thu, Fri, Sat",43.26 hrs,Label-02,11 AM - 6 PM
+E5,"Tue, Wed, Thu, Fri",34.28 hrs,Flex/Support/Relief/QA,2 PM - 8 PM

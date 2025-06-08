@@ -1,0 +1,5 @@
+MachineID,Date,Daily Units,Hours,Prod. Rate,Utilization (%),Downtime (hrs),Yield (%),Output Qty,Use Days
+Fill-01,01-04-25,1945,8.61,154.24,86.49,1.29,96.49,9725,"Monday, Tuesday, Wednesday, Thursday, Friday"
+Fill-02,01-04-25,2177,8.63,165.93,90.99,1.27,96.65,10885,"Monday, Tuesday, Wednesday, Thursday, Friday"
+Label-01,01-04-25,1977,8.5,171.76,85.46,0.67,99.07,9885,"Tuesday, Wednesday, Thursday, Friday, Saturday"
+Label-02,01-04-25,2215,8.52,172.07,84.04,1.13,99.15,11075,"Tuesday, Wednesday, Thursday, Friday, Saturday"

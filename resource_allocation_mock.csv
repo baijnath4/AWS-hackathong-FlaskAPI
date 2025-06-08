@@ -1,0 +1,71 @@
+Date,Production_Line,Resource_Type,Availability_Status,Allocation_Decision,Optimization_Action,Bottleneck_Risk,Utilization_Efficiency (%)
+04-03-2025,Line C,Equipment,In Use,Assign worker to task,Reorder materials in advance,Low,71
+04-03-2025,Line D,Equipment,Available,Trigger replenishment order,Balance workload,Low,74
+04-03-2025,Line A,Labor,Available,Reallocate material,Optimize shift timing,High,71
+04-04-2025,Line C,Equipment,Maintenance,Schedule machine operation,Reorder materials in advance,High,71
+04-04-2025,Line C,Labor,In Use,Trigger replenishment order,Reorder materials in advance,Medium,98
+04-04-2025,Line D,Equipment,Shortage,Assign worker to task,Reduce setup time,High,91
+04-09-2025,Line A,Material,Shortage,Reallocate material,Reorder materials in advance,Medium,55
+04-09-2025,Line A,Material,Maintenance,Trigger replenishment order,Reorder materials in advance,High,64
+04-09-2025,Line C,Labor,Maintenance,Trigger replenishment order,Reduce setup time,Medium,92
+04-09-2025,Line B,Material,In Use,Reallocate material,Balance workload,Low,86
+04-09-2025,Line C,Material,Shortage,Trigger replenishment order,Reorder materials in advance,High,82
+04-14-2025,Line C,Equipment,Shortage,Reallocate material,Reduce setup time,High,57
+04-14-2025,Line C,Labor,Shortage,Schedule machine operation,Optimize shift timing,High,93
+04-14-2025,Line C,Equipment,Available,Reallocate material,Balance workload,High,93
+04-14-2025,Line D,Equipment,Shortage,Reallocate material,Optimize shift timing,Medium,54
+04-14-2025,Line A,Equipment,Available,Reallocate material,Optimize shift timing,High,88
+04-19-2025,Line D,Equipment,In Use,Trigger replenishment order,Reduce setup time,Low,53
+04-19-2025,Line D,Equipment,Available,Trigger replenishment order,Reorder materials in advance,Low,55
+04-19-2025,Line D,Equipment,In Use,Reallocate material,Reduce setup time,High,94
+04-19-2025,Line C,Equipment,Shortage,Trigger replenishment order,Reduce setup time,Low,81
+04-19-2025,Line B,Labor,Shortage,Assign worker to task,Reduce setup time,High,79
+04-19-2025,Line A,Material,In Use,Assign worker to task,Reduce setup time,High,96
+04-19-2025,Line B,Equipment,Maintenance,Trigger replenishment order,Balance workload,Low,84
+04-19-2025,Line D,Equipment,In Use,Trigger replenishment order,Reorder materials in advance,High,89
+04-27-2025,Line D,Equipment,Maintenance,Reallocate material,Optimize shift timing,Low,65
+04-27-2025,Line B,Equipment,Available,Schedule machine operation,Optimize shift timing,Medium,62
+04-27-2025,Line B,Equipment,Available,Trigger replenishment order,Reorder materials in advance,High,99
+04-27-2025,Line B,Equipment,Available,Assign worker to task,Optimize shift timing,Medium,91
+04-27-2025,Line D,Material,Shortage,Reallocate material,Reorder materials in advance,Low,79
+04-27-2025,Line D,Material,Available,Trigger replenishment order,Optimize shift timing,Medium,68
+05-03-2025,Line A,Equipment,Maintenance,Assign worker to task,Reduce setup time,Medium,66
+05-03-2025,Line A,Material,Available,Assign worker to task,Optimize shift timing,Low,68
+05-03-2025,Line D,Labor,In Use,Schedule machine operation,Reorder materials in advance,Medium,77
+05-03-2025,Line B,Equipment,In Use,Reallocate material,Reorder materials in advance,Medium,75
+05-03-2025,Line B,Labor,Shortage,Reallocate material,Reorder materials in advance,Low,86
+05-03-2025,Line A,Labor,In Use,Schedule machine operation,Reorder materials in advance,Medium,75
+05-03-2025,Line D,Equipment,Maintenance,Schedule machine operation,Reorder materials in advance,Low,72
+05-10-2025,Line A,Material,Available,Reallocate material,Balance workload,Medium,58
+05-10-2025,Line A,Labor,Shortage,Reallocate material,Balance workload,Low,61
+05-10-2025,Line C,Equipment,Available,Trigger replenishment order,Optimize shift timing,Low,50
+05-10-2025,Line C,Labor,Available,Trigger replenishment order,Reorder materials in advance,Medium,50
+05-10-2025,Line C,Labor,Maintenance,Schedule machine operation,Optimize shift timing,Medium,96
+05-10-2025,Line B,Labor,In Use,Trigger replenishment order,Reorder materials in advance,Medium,83
+05-10-2025,Line D,Labor,In Use,Assign worker to task,Reorder materials in advance,High,81
+05-17-2025,Line D,Material,Available,Trigger replenishment order,Balance workload,High,97
+05-18-2025,Line D,Labor,Shortage,Trigger replenishment order,Balance workload,High,74
+05-18-2025,Line D,Labor,In Use,Assign worker to task,Reduce setup time,Low,89
+05-18-2025,Line C,Labor,Shortage,Schedule machine operation,Balance workload,Medium,94
+05-18-2025,Line B,Material,In Use,Assign worker to task,Reduce setup time,Low,50
+05-22-2025,Line B,Labor,Shortage,Trigger replenishment order,Reduce setup time,High,65
+05-22-2025,Line C,Labor,Maintenance,Schedule machine operation,Reduce setup time,Medium,88
+05-22-2025,Line B,Material,Shortage,Trigger replenishment order,Reduce setup time,Low,54
+05-22-2025,Line C,Material,Maintenance,Assign worker to task,Reduce setup time,Medium,71
+05-26-2025,Line D,Material,Maintenance,Assign worker to task,Optimize shift timing,Low,78
+05-26-2025,Line C,Labor,Shortage,Trigger replenishment order,Balance workload,Medium,52
+05-26-2025,Line D,Material,Maintenance,Reallocate material,Reduce setup time,High,61
+05-26-2025,Line D,Material,Available,Reallocate material,Reorder materials in advance,High,75
+05-26-2025,Line A,Labor,Maintenance,Assign worker to task,Balance workload,Medium,65
+05-31-2025,Line C,Material,In Use,Assign worker to task,Balance workload,Low,86
+05-31-2025,Line A,Labor,Shortage,Reallocate material,Reduce setup time,High,71
+05-31-2025,Line C,Equipment,Available,Reallocate material,Optimize shift timing,High,78
+05-31-2025,Line C,Material,Shortage,Trigger replenishment order,Reduce setup time,High,63
+06-04-2025,Line A,Equipment,In Use,Trigger replenishment order,Optimize shift timing,Medium,77
+06-04-2025,Line A,Labor,In Use,Reallocate material,Reorder materials in advance,Medium,54
+06-04-2025,Line C,Material,In Use,Trigger replenishment order,Balance workload,Low,96
+06-07-2025,Line B,Labor,Maintenance,Trigger replenishment order,Reorder materials in advance,Low,98
+06-07-2025,Line D,Equipment,Maintenance,Schedule machine operation,Optimize shift timing,Low,79
+06-07-2025,Line A,Labor,Shortage,Trigger replenishment order,Optimize shift timing,Medium,95
+06-08-2025,Line D,Material,Shortage,Assign worker to task,Reorder materials in advance,Medium,54
+06-09-2025,Line B,Material,Available,Trigger replenishment order,Optimize shift timing,Low,61
